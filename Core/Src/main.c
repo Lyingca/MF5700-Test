@@ -93,6 +93,7 @@ int main(void)
   /* USER CODE BEGIN 2 */
   __HAL_UART_ENABLE_IT(&huart1,UART_IT_IDLE);  //使能空闲中断
   HAL_UART_Receive_DMA(&huart1,pRS485RxBuff,RS485_MAXSIZE);  //启动DMA接收，UART1_RX_BUF：数据接收缓冲
+  close_write_FF();
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -100,7 +101,8 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-
+    read_flow();
+    HAL_Delay(1000);
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */

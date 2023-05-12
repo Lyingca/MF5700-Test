@@ -18,6 +18,7 @@
   */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
+#include <string.h>
 #include "usart.h"
 
 /* USER CODE BEGIN 0 */
@@ -283,9 +284,10 @@ void USAR_UART_IDLECallback(UART_HandleTypeDef *huart,uint8_t rxlen )
 {
     if(huart == &huart1)  //判断是否为串口1产生中断
     {
-        HAL_UART_Transmit_DMA(&huart1, pRS485RxBuff, rxlen);//将接收到的不定长数据发送到上位机
+        HAL_UART_Transmit(&huart2, pRS485RxBuff, rxlen,HAL_MAX_DELAY);//将接收到的不定长数据发送到上位机
         rxlen = 0;//清除数据长度计数
         HAL_UART_Receive_DMA(&huart1, pRS485RxBuff, RS485_MAXSIZE);//重新打开DMA接收
+        memset(pRS485RxBuff,0,RS485_MAXSIZE);
     }
 }
 /* USER CODE END 1 */

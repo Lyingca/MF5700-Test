@@ -26,10 +26,10 @@ uint16_t Cal_CRC16(uint8_t *pBuf,uint8_t lens)
 	while(lens--)
 	{
 		usIndex = CRC_L ^ *(pBuf++);	//计算CRC值
-		CRC_L = CRC_L ^ s_CRC_H[usIndex];
-		CRC_L = s_CRC_L[usIndex];
+		CRC_L = CRC_H ^ s_CRC_H[usIndex];
+		CRC_H = s_CRC_L[usIndex];
 	}
-	return ((uint16_t)CRC_H << 8 | CRC_L);
+	return (uint16_t)(CRC_H << 8 | CRC_L);
 }
 
 /**
@@ -40,7 +40,7 @@ uint16_t Cal_CRC16(uint8_t *pBuf,uint8_t lens)
 void read_flow(void)
 {
 	//RS485发送数据缓存
-	uint8_t pTxBuff[8];
+	static uint8_t pTxBuff[8];
 	uint8_t index = 0;
 	uint16_t num = 0x0002;						//寄存器个数
 	pTxBuff[index++] = device_address;			//设备地址
@@ -50,10 +50,11 @@ void read_flow(void)
 	pTxBuff[index++] = num >> 8;				//寄存器个数 高位
 	pTxBuff[index++] = num;						//寄存器个数 低位
 	uint16_t crc = Cal_CRC16(pTxBuff, index);	//计算CRC值
-	pTxBuff[index++] = crc;				//CRC高位
-	pTxBuff[index++] = crc >> 8;						//CRC低位
+	pTxBuff[index++] = crc;				//CRC低位
+	pTxBuff[index++] = crc >> 8;						//CRC高位
 	//发送数据
-	//HAL_UART_Transmit(&huart1, pTxBuff, index, HAL_MAX_DELAY);
+	HAL_UART_Transmit_DMA(&huart1, pTxBuff, index);
+    HAL_UART_Transmit(&huart2,pTxBuff,index,HAL_MAX_DELAY);
 }
 
 /**
@@ -80,7 +81,8 @@ void close_write_FF(void)
 	pTxBuff[index++] = crc >> 8;				//CRC高位
 	pTxBuff[index++] = crc;						//CRC低位
 	//发送数据
-	//HAL_UART_Transmit(&huart3, pTxBuff, index, HAL_MAX_DELAY);
+    HAL_UART_Transmit_DMA(&huart1, pTxBuff, index);
+    HAL_UART_Transmit(&huart2,pTxBuff,index,HAL_MAX_DELAY);
 }
 
 /**

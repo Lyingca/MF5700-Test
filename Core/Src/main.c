@@ -89,6 +89,7 @@ int main(void)
   MX_GPIO_Init();
   MX_DMA_Init();
   MX_USART1_UART_Init();
+  MX_USART2_UART_Init();
   /* USER CODE BEGIN 2 */
   __HAL_UART_ENABLE_IT(&huart1,UART_IT_IDLE);  //使能空闲中断
   HAL_UART_Receive_DMA(&huart1,pRS485RxBuff,RS485_MAXSIZE);  //启动DMA接收，UART1_RX_BUF：数据接收缓冲

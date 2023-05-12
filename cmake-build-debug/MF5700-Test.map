@@ -1,0 +1,1564 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                              CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj (__aeabi_uidiv)
+d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                              CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj (__aeabi_idiv)
+d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-errno.o)
+                              CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj (__errno)
+d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+                              d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+                              d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o) (_global_impure_ptr)
+d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+                              d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+                              d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+                              d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o) (__call_exitprocs)
+d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+                              d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o) (atexit)
+d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+                              d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                              d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+                              d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x00000000       0x80 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .text.Cal_CRC16
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .text.read_flow
+                0x00000000       0x32 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .text.close_write_FF
+                0x00000000       0x32 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .text.close_valve
+                0x00000000       0x32 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .text.open_valve
+                0x00000000       0x32 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .text.auto_zero_setting
+                0x00000000       0x32 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .text.RS485_Data_Process
+                0x00000000       0x1c CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .rodata.s_CRC_L
+                0x00000000      0x100 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x00000000        0x4 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x00000000       0x1c CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x00000000       0x1c CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x00000000        0x6 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x00000000        0xa CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x00000000        0x4 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x00000000        0x4 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x00000000        0xa CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x00000000        0x6 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x00000000        0xa CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00000000      0x7af CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x1a3 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .debug_loc     0x00000000      0x3d0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x00000000       0x98 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x458 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000      0x430 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x00000000      0x184 CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .text._sbrk    0x00000000       0x48 CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .bss.__sbrk_heap_end
+                0x00000000        0x4 CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x00000000      0x17c CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .debug_abbrev  0x00000000       0xe7 CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .debug_loc     0x00000000       0x93 CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .debug_ranges  0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x00000000      0x1f6 CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .debug_str     0x00000000      0x25c CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .debug_frame   0x00000000       0x28 CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0xb8 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000       0x48 CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+ .text          0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x28 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000        0xc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000        0xc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_Delay
+                0x00000000       0x24 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000        0xc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000        0xc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000        0xc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000        0xc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableIOAnalogSwitchBooster
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableIOAnalogSwitchBooster
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableRemap
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableRemap
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x20 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x1c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x4c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x20 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x20 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_MPU_Enable
+                0x00000000       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_MPU_Disable
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x58 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x00000000       0x8c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x00000000       0x52 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x138 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x54 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x68 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .rodata.HAL_DMA_UnRegisterCallback
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x00000000        0x8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ConfigMuxSync
+                0x00000000       0x52 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ConfigMuxRequestGenerator
+                0x00000000       0x52 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_EnableMuxRequestGenerator
+                0x00000000       0x24 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_DisableMuxRequestGenerator
+                0x00000000       0x28 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MUX_IRQHandler
+                0x00000000       0x68 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_info    0x00000000      0x626 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_abbrev  0x00000000      0x17e CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_loc     0x00000000      0x2cb CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_aranges
+                0x00000000       0x40 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_ranges  0x00000000       0x30 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_line    0x00000000      0x4ce CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_str     0x00000000      0x6a4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_frame   0x00000000       0x80 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000       0xc4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000       0xb8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0xa4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000       0x24 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x00000000        0xe CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x48 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x38 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x34 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x20 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_info    0x00000000      0x784 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_abbrev  0x00000000      0x189 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_loc     0x00000000      0xc3e CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_aranges
+                0x00000000       0x60 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_ranges  0x00000000       0x50 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x85f CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x4a2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_frame   0x00000000       0xec CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.FLASH_Program_DoubleWord
+                0x00000000       0x1c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .RamFunc       0x00000000       0x38 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000       0xc4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x30 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x20 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x30 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x20 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x68 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0x64 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x70 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .bss.pFlash    0x00000000       0x1c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_info    0x00000000      0x7f0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_abbrev  0x00000000      0x329 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_loc     0x00000000      0x514 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_aranges
+                0x00000000       0x88 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_ranges  0x00000000       0x90 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x7a0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x53f CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_frame   0x00000000      0x138 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_WRPConfig
+                0x00000000       0x1c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000       0x34 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_OptrConfig
+                0x00000000       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0xa8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_FlashEmptyCheck
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_ForceFlashEmpty
+                0x00000000       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x00000000       0x20 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0x8c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x78 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_FlushCaches
+                0x00000000       0x3c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_info    0x00000000      0x7d9 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x00000000      0x26e CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_loc     0x00000000      0x46b CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x00000000       0x88 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_ranges  0x00000000       0x78 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0x6db CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x568 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_frame   0x00000000      0x12c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x104 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xe CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_WritePin
+                0x00000000        0xc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_TogglePin
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Rising_Callback
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Falling_Callback
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x30 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x20 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x1c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x4c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x4c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x24 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_info    0x00000000      0x5eb CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_abbrev  0x00000000      0x159 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_loc     0x00000000      0x157 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000000       0x78 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_ranges  0x00000000       0x68 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x42e CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x516 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_frame   0x00000000       0xd8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableBatteryCharging
+                0x00000000       0x1c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableBatteryCharging
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableInternalWakeUpLine
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableInternalWakeUpLine
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableGPIOPullUp
+                0x00000000       0x84 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .rodata.HAL_PWREx_EnableGPIOPullUp
+                0x00000000       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableGPIOPullUp
+                0x00000000       0x5c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .rodata.HAL_PWREx_DisableGPIOPullUp
+                0x00000000       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableGPIOPullDown
+                0x00000000       0x84 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .rodata.HAL_PWREx_EnableGPIOPullDown
+                0x00000000       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableGPIOPullDown
+                0x00000000       0x5c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .rodata.HAL_PWREx_DisableGPIOPullDown
+                0x00000000       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePullUpPullDownConfig
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePullUpPullDownConfig
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetVoltageRange
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableLowPowerRunMode
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableLowPowerRunMode
+                0x00000000       0x48 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000       0xb4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x58 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0xc8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x34 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableLSECSS
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableLSECSS
+                0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_LSECSSCallback
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x28 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetResetSource
+                0x00000000       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x50 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000      0x284 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnableLSCO
+                0x00000000       0xa0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisableLSCO
+                0x00000000       0x70 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_info    0x00000000       0xb1 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_abbrev  0x00000000       0x5f CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_line    0x00000000      0x142 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_str     0x00000000      0x20c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_info    0x00000000       0xb1 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00000000       0x5f CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_line    0x00000000      0x142 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_str     0x00000000      0x20f CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_TxISR_8BIT
+                0x00000000       0x60 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_TxISR_16BIT
+                0x00000000       0x64 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_TxISR_8BIT_FIFOEN
+                0x00000000       0x78 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_TxISR_16BIT_FIFOEN
+                0x00000000       0x7c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_MspInit
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_DeInit
+                0x00000000       0x42 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_IT
+                0x00000000       0xd0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_DMAPause
+                0x00000000       0x88 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_DMAResume
+                0x00000000       0x82 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Abort
+                0x00000000      0x134 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit
+                0x00000000       0xa4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive
+                0x00000000       0xc8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortCpltCallback
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Abort_IT
+                0x00000000      0x164 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMARxAbortCallback
+                0x00000000       0x48 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMATxAbortCallback
+                0x00000000       0x56 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmitCpltCallback
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit_IT
+                0x00000000       0xb8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMATxOnlyAbortCallback
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceiveCpltCallback
+                0x00000000        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive_IT
+                0x00000000       0xe4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMARxOnlyAbortCallback
+                0x00000000       0x28 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_RxISR_8BIT
+                0x00000000       0xb8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_RxISR_16BIT
+                0x00000000       0xb4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_RxISR_8BIT_FIFOEN
+                0x00000000      0x1ac CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_RxISR_16BIT_FIFOEN
+                0x00000000      0x1b0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_ReceiverTimeout_Config
+                0x00000000        0xe CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_EnableReceiverTimeout
+                0x00000000       0x3e CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_DisableReceiverTimeout
+                0x00000000       0x40 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_EnterMuteMode
+                0x00000000        0xc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableTransmitter
+                0x00000000       0x52 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableReceiver
+                0x00000000       0x52 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_LIN_SendBreak
+                0x00000000       0x30 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_GetState
+                0x00000000        0xc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_GetError
+                0x00000000        0x6 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit
+                0x00000000       0xf0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Receive
+                0x00000000      0x148 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_Init
+                0x00000000       0x7c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_LIN_Init
+                0x00000000       0xa4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_Init
+                0x00000000       0xa0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_EnableMuteMode
+                0x00000000       0x3c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_DisableMuteMode
+                0x00000000       0x40 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_Start_Receive_IT
+                0x00000000      0x164 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Receive_IT
+                0x00000000       0x62 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.UARTEx_Wakeup_AddressConfig
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_RS485Ex_Init
+                0x00000000       0x94 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_MultiProcessorEx_AddressLength_Set
+                0x00000000       0x36 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_StopModeWakeUpSourceConfig
+                0x00000000       0x88 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_EnableStopMode
+                0x00000000       0x32 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_DisableStopMode
+                0x00000000       0x32 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_EnableFifoMode
+                0x00000000       0x44 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_ReceiveToIdle
+                0x00000000      0x1a4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_ReceiveToIdle_IT
+                0x00000000       0x72 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_ReceiveToIdle_DMA
+                0x00000000       0x72 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_GetRxEventType
+                0x00000000        0x4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
+ .debug_line    0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
+ .debug_str     0x00000000      0x156 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .debug_line    0x00000000        0x0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .debug_str     0x00000000      0x156 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-errno.o)
+ .text          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xf8 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x00000000        0x1 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .text          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .text          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .data          0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .bss           0x00000000        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00009000         xrw
+FLASH            0x08000000         0x00020000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+LOAD d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+LOAD d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+LOAD CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Core/Src/sysmem.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_dma.c.obj
+LOAD CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+START GROUP
+LOAD d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+END GROUP
+LOAD d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+LOAD d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+                0x20009000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000       0xb8
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000       0xb8 CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+                0x08000000                g_pfnVectors
+                0x080000b8                . = ALIGN (0x4)
+
+.text           0x080000b8     0x264c
+                0x080000b8                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080000b8       0x48 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x08000100      0x114 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                0x08000100                __aeabi_uidiv
+                0x08000100                __udivsi3
+                0x0800020c                __aeabi_uidivmod
+ .text          0x08000214      0x1d4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                0x08000214                __divsi3
+                0x08000214                __aeabi_idiv
+                0x080003e0                __aeabi_idivmod
+ .text          0x080003e8        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x080003e8                __aeabi_idiv0
+                0x080003e8                __aeabi_ldiv0
+ *(.text*)
+ .text.MX_DMA_Init
+                0x080003ec       0x40 CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+                0x080003ec                MX_DMA_Init
+ .text.MX_GPIO_Init
+                0x0800042c       0x2c CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+                0x0800042c                MX_GPIO_Init
+ .text.Error_Handler
+                0x08000458        0x4 CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+                0x08000458                Error_Handler
+ .text.SystemClock_Config
+                0x0800045c       0x60 CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+                0x0800045c                SystemClock_Config
+ .text.main     0x080004bc       0x34 CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+                0x080004bc                main
+ .text.HAL_MspInit
+                0x080004f0       0x38 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+                0x080004f0                HAL_MspInit
+ .text.NMI_Handler
+                0x08000528        0x2 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08000528                NMI_Handler
+ .text.HardFault_Handler
+                0x0800052a        0x2 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+                0x0800052a                HardFault_Handler
+ .text.SVC_Handler
+                0x0800052c        0x2 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+                0x0800052c                SVC_Handler
+ .text.PendSV_Handler
+                0x0800052e        0x2 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+                0x0800052e                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000530        0x8 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08000530                SysTick_Handler
+ .text.DMA1_Channel1_IRQHandler
+                0x08000538       0x10 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08000538                DMA1_Channel1_IRQHandler
+ .text.DMA1_Channel2_3_IRQHandler
+                0x08000548       0x10 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08000548                DMA1_Channel2_3_IRQHandler
+ .text.USART1_IRQHandler
+                0x08000558       0x40 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08000558                USART1_IRQHandler
+ .text.SystemInit
+                0x08000598        0x2 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+                0x08000598                SystemInit
+ *fill*         0x0800059a        0x2 
+ .text.MX_USART1_UART_Init
+                0x0800059c       0x70 CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+                0x0800059c                MX_USART1_UART_Init
+ .text.HAL_UART_MspInit
+                0x0800060c      0x108 CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+                0x0800060c                HAL_UART_MspInit
+ .text.USAR_UART_IDLECallback
+                0x08000714       0x2c CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+                0x08000714                USAR_UART_IDLECallback
+ .text.Reset_Handler
+                0x08000740       0x50 CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+                0x08000740                Reset_Handler
+ .text.Default_Handler
+                0x08000790        0x2 CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+                0x08000790                TIM1_CC_IRQHandler
+                0x08000790                TIM6_IRQHandler
+                0x08000790                I2C1_IRQHandler
+                0x08000790                RTC_TAMP_IRQHandler
+                0x08000790                SPI1_IRQHandler
+                0x08000790                USART3_4_IRQHandler
+                0x08000790                EXTI2_3_IRQHandler
+                0x08000790                ADC1_IRQHandler
+                0x08000790                I2C2_IRQHandler
+                0x08000790                TIM17_IRQHandler
+                0x08000790                TIM16_IRQHandler
+                0x08000790                TIM3_IRQHandler
+                0x08000790                EXTI4_15_IRQHandler
+                0x08000790                RCC_IRQHandler
+                0x08000790                Default_Handler
+                0x08000790                TIM14_IRQHandler
+                0x08000790                TIM7_IRQHandler
+                0x08000790                TIM15_IRQHandler
+                0x08000790                EXTI0_1_IRQHandler
+                0x08000790                SPI2_IRQHandler
+                0x08000790                WWDG_IRQHandler
+                0x08000790                DMA1_Ch4_7_DMAMUX1_OVR_IRQHandler
+                0x08000790                USART2_IRQHandler
+                0x08000790                FLASH_IRQHandler
+                0x08000790                TIM1_BRK_UP_TRG_COM_IRQHandler
+ *fill*         0x08000792        0x2 
+ .text.HAL_InitTick
+                0x08000794       0x58 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x08000794                HAL_InitTick
+ .text.HAL_Init
+                0x080007ec       0x28 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x080007ec                HAL_Init
+ .text.HAL_IncTick
+                0x08000814       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x08000814                HAL_IncTick
+ .text.HAL_GetTick
+                0x0800082c        0xc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x0800082c                HAL_GetTick
+ .text.HAL_SYSCFG_StrobeDBattpinsConfig
+                0x08000838       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x08000838                HAL_SYSCFG_StrobeDBattpinsConfig
+ .text.HAL_NVIC_SetPriority
+                0x08000850       0x60 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x08000850                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x080008b0       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x080008b0                HAL_NVIC_EnableIRQ
+ .text.HAL_SYSTICK_Config
+                0x080008c8       0x38 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x080008c8                HAL_SYSTICK_Config
+ .text.DMA_SetConfig
+                0x08000900       0x48 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.DMA_CalcDMAMUXChannelBaseAndMask
+                0x08000948       0x38 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.DMA_CalcDMAMUXRequestGenBaseAndMask
+                0x08000980       0x28 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x080009a8       0xb0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x080009a8                HAL_DMA_Init
+ .text.HAL_DMA_Start_IT
+                0x08000a58       0x9c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08000a58                HAL_DMA_Start_IT
+ .text.HAL_DMA_Abort
+                0x08000af4       0x80 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08000af4                HAL_DMA_Abort
+ .text.HAL_DMA_Abort_IT
+                0x08000b74       0x80 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08000b74                HAL_DMA_Abort_IT
+ .text.HAL_DMA_IRQHandler
+                0x08000bf4       0xcc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08000bf4                HAL_DMA_IRQHandler
+ .text.HAL_DMA_GetError
+                0x08000cc0        0x4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08000cc0                HAL_DMA_GetError
+ .text.HAL_GPIO_Init
+                0x08000cc4      0x178 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+                0x08000cc4                HAL_GPIO_Init
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x08000e3c       0x54 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+                0x08000e3c                HAL_PWREx_ControlVoltageScaling
+ .text.HAL_RCC_OscConfig
+                0x08000e90      0x4a4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x08000e90                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x08001334       0xb8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x08001334                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x080013ec      0x18c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x080013ec                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetHCLKFreq
+                0x08001578        0xc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x08001578                HAL_RCC_GetHCLKFreq
+ .text.HAL_RCC_GetPCLK1Freq
+                0x08001584       0x28 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x08001584                HAL_RCC_GetPCLK1Freq
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x080015ac      0x190 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+                0x080015ac                HAL_RCCEx_PeriphCLKConfig
+ .text.UART_EndTxTransfer
+                0x0800173c       0x3c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_EndRxTransfer
+                0x08001778       0x64 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_DMA
+                0x080017dc       0xbc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080017dc                HAL_UART_Transmit_DMA
+ .text.HAL_UART_DMAStop
+                0x08001898       0xb6 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08001898                HAL_UART_DMAStop
+ .text.HAL_UART_TxCpltCallback
+                0x0800194e        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x0800194e                HAL_UART_TxCpltCallback
+ .text.UART_DMATransmitCplt
+                0x08001950       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_EndTransmit_IT
+                0x0800199a       0x2a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_TxHalfCpltCallback
+                0x080019c4        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080019c4                HAL_UART_TxHalfCpltCallback
+ .text.UART_DMATxHalfCplt
+                0x080019c6        0xa CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_RxCpltCallback
+                0x080019d0        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080019d0                HAL_UART_RxCpltCallback
+ .text.HAL_UART_RxHalfCpltCallback
+                0x080019d2        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080019d2                HAL_UART_RxHalfCpltCallback
+ .text.HAL_UART_ErrorCallback
+                0x080019d4        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080019d4                HAL_UART_ErrorCallback
+ .text.UART_DMAError
+                0x080019d6       0x52 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMAAbortOnError
+                0x08001a28       0x14 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UARTEx_RxEventCallback
+                0x08001a3c        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08001a3c                HAL_UARTEx_RxEventCallback
+ *fill*         0x08001a3e        0x2 
+ .text.HAL_UART_IRQHandler
+                0x08001a40      0x320 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08001a40                HAL_UART_IRQHandler
+ .text.UART_DMARxHalfCplt
+                0x08001d60       0x20 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMAReceiveCplt
+                0x08001d80       0x98 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_SetConfig
+                0x08001e18      0x1f0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08001e18                UART_SetConfig
+ .text.UART_AdvFeatureConfig
+                0x08002008       0xe0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08002008                UART_AdvFeatureConfig
+ .text.UART_WaitOnFlagUntilTimeout
+                0x080020e8       0xe4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080020e8                UART_WaitOnFlagUntilTimeout
+ .text.UART_CheckIdleState
+                0x080021cc       0x74 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080021cc                UART_CheckIdleState
+ .text.HAL_UART_Init
+                0x08002240       0x70 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08002240                HAL_UART_Init
+ .text.UART_Start_Receive_DMA
+                0x080022b0       0xb4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x080022b0                UART_Start_Receive_DMA
+ .text.HAL_UART_Receive_DMA
+                0x08002364       0x62 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08002364                HAL_UART_Receive_DMA
+ *fill*         0x080023c6        0x2 
+ .text.UARTEx_SetNbDataToProcess
+                0x080023c8       0x50 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_WakeupCallback
+                0x08002418        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08002418                HAL_UARTEx_WakeupCallback
+ .text.HAL_UARTEx_RxFifoFullCallback
+                0x0800241a        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x0800241a                HAL_UARTEx_RxFifoFullCallback
+ .text.HAL_UARTEx_TxFifoEmptyCallback
+                0x0800241c        0x2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x0800241c                HAL_UARTEx_TxFifoEmptyCallback
+ *fill*         0x0800241e        0x2 
+ .text.HAL_UARTEx_DisableFifoMode
+                0x08002420       0x40 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08002420                HAL_UARTEx_DisableFifoMode
+ .text.HAL_UARTEx_SetTxFifoThreshold
+                0x08002460       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08002460                HAL_UARTEx_SetTxFifoThreshold
+ *fill*         0x080024aa        0x2 
+ .text.HAL_UARTEx_SetRxFifoThreshold
+                0x080024ac       0x50 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x080024ac                HAL_UARTEx_SetRxFifoThreshold
+ .text.__libc_init_array
+                0x080024fc       0x44 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+                0x080024fc                __libc_init_array
+ .text.memset   0x08002540       0xa8 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+                0x08002540                memset
+ .text.startup.register_fini
+                0x080025e8       0x18 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08002600       0x10 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+                0x08002600                atexit
+ .text.__libc_fini_array
+                0x08002610       0x28 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+                0x08002610                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08002638        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x08002638                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0800263c        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x0800263c                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08002640       0xac d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+                0x08002640                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x080026ec        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080026ec        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080026ec        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x080026ec        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x080026ec                _init
+ .init          0x080026f0        0x8 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x080026f8        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x080026f8                _fini
+ .fini          0x080026fc        0x8 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+                0x08002704                . = ALIGN (0x4)
+                0x08002704                _etext = .
+
+.vfp11_veneer   0x08002704        0x0
+ .vfp11_veneer  0x08002704        0x0 linker stubs
+
+.v4_bx          0x08002704        0x0
+ .v4_bx         0x08002704        0x0 linker stubs
+
+.iplt           0x08002704        0x0
+ .iplt          0x08002704        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.rodata         0x08002704       0x8c
+                0x08002704                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x08002704       0x40 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+                0x08002704                AHBPrescTable
+ .rodata.APBPrescTable
+                0x08002744       0x20 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+                0x08002744                APBPrescTable
+ .rodata.UARTPrescTable
+                0x08002764       0x18 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08002764                UARTPrescTable
+ .rodata.denominator.0
+                0x0800277c        0x8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .rodata.numerator.1
+                0x08002784        0x8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .rodata._global_impure_ptr
+                0x0800278c        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+                0x0800278c                _global_impure_ptr
+                0x08002790                . = ALIGN (0x4)
+
+.rel.dyn        0x08002790        0x0
+ .rel.iplt      0x08002790        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.ARM.extab      0x08002790        0x0
+                0x08002790                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08002790                . = ALIGN (0x4)
+
+.ARM            0x08002790        0x0
+                0x08002790                . = ALIGN (0x4)
+                0x08002790                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08002790                __exidx_end = .
+                0x08002790                . = ALIGN (0x4)
+
+.preinit_array  0x08002790        0x0
+                0x08002790                . = ALIGN (0x4)
+                0x08002790                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08002790                PROVIDE (__preinit_array_end = .)
+                0x08002790                . = ALIGN (0x4)
+
+.init_array     0x08002790        0x8
+                0x08002790                . = ALIGN (0x4)
+                0x08002790                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x08002790        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08002794        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x08002798                PROVIDE (__init_array_end = .)
+                0x08002798                . = ALIGN (0x4)
+
+.fini_array     0x08002798        0x4
+                0x08002798                . = ALIGN (0x4)
+                0x08002798                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08002798        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x0800279c                PROVIDE (__fini_array_end = .)
+                0x0800279c                . = ALIGN (0x4)
+                0x0800279c                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x43c load address 0x0800279c
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+                0x20000000                SystemCoreClock
+ .data.uwTickFreq
+                0x20000004        0x1 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x20000004                uwTickFreq
+ *fill*         0x20000005        0x3 
+ .data.uwTickPrio
+                0x20000008        0x4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x20000008                uwTickPrio
+ *fill*         0x2000000c        0x4 
+ .data.impure_data
+                0x20000010      0x428 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000438        0x4 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+                0x20000438                __atexit_recursive_mutex
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x2000043c                . = ALIGN (0x4)
+                0x2000043c                _edata = .
+
+.igot.plt       0x2000043c        0x0 load address 0x08002bd8
+ .igot.plt      0x2000043c        0x0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x2000043c                . = ALIGN (0x4)
+
+.bss            0x2000043c      0x188 load address 0x08002bd8
+                0x2000043c                _sbss = .
+                0x2000043c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000043c       0x1c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.pRS485RxBuff
+                0x20000458       0x18 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+                0x20000458                pRS485RxBuff
+ .bss.hdma_usart1_rx
+                0x20000470       0x5c CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+                0x20000470                hdma_usart1_rx
+ .bss.hdma_usart1_tx
+                0x200004cc       0x5c CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+                0x200004cc                hdma_usart1_tx
+ .bss.huart1    0x20000528       0x94 CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+                0x20000528                huart1
+ .bss.uwTick    0x200005bc        0x4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x200005bc                uwTick
+ .bss.__lock___atexit_recursive_mutex
+                0x200005c0        0x1 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x200005c0                __lock___atexit_recursive_mutex
+ *(COMMON)
+                0x200005c4                . = ALIGN (0x4)
+ *fill*         0x200005c1        0x3 
+                0x200005c4                _ebss = .
+                0x200005c4                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200005c4      0x604 load address 0x08002bd8
+                0x200005c8                . = ALIGN (0x8)
+ *fill*         0x200005c4        0x4 
+                [!provide]                PROVIDE (end = .)
+                0x200005c8                PROVIDE (_end = .)
+                0x200007c8                . = (. + _Min_Heap_Size)
+ *fill*         0x200005c8      0x200 
+                0x20000bc8                . = (. + _Min_Stack_Size)
+ *fill*         0x200007c8      0x400 
+                0x20000bc8                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2c CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+ .ARM.attributes
+                0x00000076       0x2c CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+ .ARM.attributes
+                0x000000a2       0x2c CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x000000ce       0x2c CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .ARM.attributes
+                0x000000fa       0x2c CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .ARM.attributes
+                0x00000126       0x2c CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+ .ARM.attributes
+                0x00000152       0x2c CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+ .ARM.attributes
+                0x0000017e       0x2c CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+ .ARM.attributes
+                0x000001aa       0x22 CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+ .ARM.attributes
+                0x000001cc       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .ARM.attributes
+                0x000001f8       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x00000224       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .ARM.attributes
+                0x00000250       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x0000027c       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .ARM.attributes
+                0x000002a8       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x000002d4       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000300       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .ARM.attributes
+                0x0000032c       0x2c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .ARM.attributes
+                0x00000358       0x1e d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000376       0x1e d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000394       0x1e d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000003b2       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000003de       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000040a       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000436       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000462       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000048e       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000004ba       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000004e6       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000512       0x1e d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+OUTPUT(MF5700-Test.elf elf32-littlearm)
+LOAD linker stubs
+LOAD d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+LOAD d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+
+.debug_info     0x00000000     0xf6f4
+ .debug_info    0x00000000      0x3c2 CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+ .debug_info    0x000003c2      0x294 CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+ .debug_info    0x00000656      0xd13 CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00001369      0xc44 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .debug_info    0x00001fad      0x2ba CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .debug_info    0x00002267      0xb50 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_info    0x00002db7      0x38d CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+ .debug_info    0x00003144     0x11ba CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+ .debug_info    0x000042fe       0x22 CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+ .debug_info    0x00004320      0x9c6 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_info    0x00004ce6      0xa4b CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_info    0x00005731      0xa54 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_info    0x00006185      0x62f CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_info    0x000067b4      0x558 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_info    0x00006d0c      0xd38 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_info    0x00007a44      0x8f6 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_info    0x0000833a     0x6184 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_info    0x0000e4be     0x1236 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+
+.debug_abbrev   0x00000000     0x23e1
+ .debug_abbrev  0x00000000      0x13e CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+ .debug_abbrev  0x0000013e       0xe9 CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x00000227      0x235 CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x0000045c      0x259 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .debug_abbrev  0x000006b5      0x10c CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .debug_abbrev  0x000007c1      0x210 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_abbrev  0x000009d1      0x142 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+ .debug_abbrev  0x00000b13      0x23a CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+ .debug_abbrev  0x00000d4d       0x12 CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+ .debug_abbrev  0x00000d5f      0x29c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_abbrev  0x00000ffb      0x2af CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_abbrev  0x000012aa      0x20a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_abbrev  0x000014b4      0x1fd CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_abbrev  0x000016b1      0x1f8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_abbrev  0x000018a9      0x29a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_abbrev  0x00001b43      0x24e CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00001d91      0x33b CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_abbrev  0x000020cc      0x315 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+
+.debug_aranges  0x00000000      0x898
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+ .debug_aranges
+                0x00000020       0x20 CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+ .debug_aranges
+                0x00000040       0x30 CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x00000070       0x50 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .debug_aranges
+                0x000000c0       0x20 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .debug_aranges
+                0x000000e0       0x58 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_aranges
+                0x00000138       0x28 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+ .debug_aranges
+                0x00000160       0x38 CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+ .debug_aranges
+                0x00000198       0x28 CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+ .debug_aranges
+                0x000001c0       0xf8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_aranges
+                0x000002b8       0x90 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_aranges
+                0x00000348       0x90 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_aranges
+                0x000003d8       0x60 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_aranges
+                0x00000438       0x98 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_aranges
+                0x000004d0       0x98 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000568       0x40 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x000005a8      0x248 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_aranges
+                0x000007f0       0xa8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+
+.debug_ranges   0x00000000      0x818
+ .debug_ranges  0x00000000       0x10 CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+ .debug_ranges  0x00000010       0x10 CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+ .debug_ranges  0x00000020       0x20 CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x00000040       0x40 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .debug_ranges  0x00000080       0x10 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .debug_ranges  0x00000090       0x48 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_ranges  0x000000d8       0x18 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+ .debug_ranges  0x000000f0       0x28 CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+ .debug_ranges  0x00000118       0x20 CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+ .debug_ranges  0x00000138       0xe8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_ranges  0x00000220       0xe0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_ranges  0x00000300       0x80 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_ranges  0x00000380       0x50 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_ranges  0x000003d0       0x88 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_ranges  0x00000458       0xa8 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_ranges  0x00000500       0x48 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x00000548      0x238 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_ranges  0x00000780       0x98 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+
+.debug_line     0x00000000     0xad60
+ .debug_line    0x00000000      0x218 CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+ .debug_line    0x00000218      0x201 CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x00000419      0x40e CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00000827      0x4c3 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .debug_line    0x00000cea      0x222 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .debug_line    0x00000f0c      0x395 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_line    0x000012a1      0x2fc CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+ .debug_line    0x0000159d      0x539 CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+ .debug_line    0x00001ad6       0xad CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+ .debug_line    0x00001b83      0x660 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_line    0x000021e3      0x718 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_line    0x000028fb      0xb89 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_line    0x00003484      0x71d CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_line    0x00003ba1      0x5da CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_line    0x0000417b      0xde5 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_line    0x00004f60      0x856 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_line    0x000057b6     0x4876 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_line    0x0000a02c      0xd34 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+
+.debug_str      0x00000000     0x2e78
+ .debug_str     0x00000000      0x450 CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+                                0x49a (size before relaxing)
+ .debug_str     0x00000450       0x44 CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+                                0x2cc (size before relaxing)
+ .debug_str     0x00000494      0x72b CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+                                0x970 (size before relaxing)
+ .debug_str     0x00000bbf      0x151 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+                                0x893 (size before relaxing)
+ .debug_str     0x00000d10       0x71 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+                                0x2f9 (size before relaxing)
+ .debug_str     0x00000d81      0x154 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+                                0x87d (size before relaxing)
+ .debug_str     0x00000ed5       0xc0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+                                0x341 (size before relaxing)
+ .debug_str     0x00000f95      0x26e CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+                                0xcdc (size before relaxing)
+ .debug_str     0x00001203       0x5a CMakeFiles/MF5700-Test.elf.dir/Core/Startup/startup_stm32g070rbtx.s.obj
+                                 0x93 (size before relaxing)
+ .debug_str     0x0000125d      0x3c0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                                0x89b (size before relaxing)
+ .debug_str     0x0000161d      0x346 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                                0x77a (size before relaxing)
+ .debug_str     0x00001963      0x2b4 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                                0x7db (size before relaxing)
+ .debug_str     0x00001c17      0x18b CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+                                0x456 (size before relaxing)
+ .debug_str     0x00001da2      0x2c2 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+                                0x541 (size before relaxing)
+ .debug_str     0x00002064      0x214 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                                0x7b7 (size before relaxing)
+ .debug_str     0x00002278      0x13a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+                                0x623 (size before relaxing)
+ .debug_str     0x000023b2      0x843 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                               0x11a3 (size before relaxing)
+ .debug_str     0x00002bf5      0x283 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                                0xb9d (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+
+.debug_frame    0x00000000     0x1650
+ .debug_frame   0x00000000       0x28 CMakeFiles/MF5700-Test.elf.dir/Core/Src/dma.c.obj
+ .debug_frame   0x00000028       0x24 CMakeFiles/MF5700-Test.elf.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x0000004c       0x50 CMakeFiles/MF5700-Test.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x0000009c       0xb8 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .debug_frame   0x00000154       0x28 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .debug_frame   0x0000017c       0xb0 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_frame   0x0000022c       0x38 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+ .debug_frame   0x00000264       0x78 CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+ .debug_frame   0x000002dc      0x1fc CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_frame   0x000004d8      0x114 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_frame   0x000005ec      0x188 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_frame   0x00000774       0xd0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_frame   0x00000844      0x120 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_frame   0x00000964      0x16c CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_frame   0x00000ad0       0x90 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00000b60      0x6e0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_frame   0x00001240      0x1e0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .debug_frame   0x00001420       0x20 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00001440       0x20 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_frame   0x00001460       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .debug_frame   0x0000148c       0x30 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .debug_frame   0x000014bc       0x54 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00001510       0x28 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00001538       0x2c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+ .debug_frame   0x00001564       0xb0 d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .debug_frame   0x00001614       0x3c d:/stmicroelectronics/stm32cube/gnu-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+
+.debug_loc      0x00000000     0x7b84
+ .debug_loc     0x00000000      0x3b2 CMakeFiles/MF5700-Test.elf.dir/Core/Src/rs485_usart1.c.obj
+ .debug_loc     0x000003b2       0x15 CMakeFiles/MF5700-Test.elf.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_loc     0x000003c7       0xa9 CMakeFiles/MF5700-Test.elf.dir/Core/Src/system_stm32g0xx.c.obj
+ .debug_loc     0x00000470      0x10d CMakeFiles/MF5700-Test.elf.dir/Core/Src/usart.c.obj
+ .debug_loc     0x0000057d      0x1bd CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_loc     0x0000073a      0x458 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_loc     0x00000b92      0x93e CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_loc     0x000014d0      0x3a7 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_loc     0x00001877      0x2e0 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_loc     0x00001b57      0x717 CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_loc     0x0000226e      0x7bd CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_loc     0x00002a2b     0x450a CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_loc     0x00006f35      0xc4f CMakeFiles/MF5700-Test.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
